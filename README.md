@@ -2,7 +2,7 @@
 
 ## This readme is being updated frequently. As I am aware that it might not be completely clear right now, I am going to resolve it ASAP
 
-## As a temporary measure, I have also made a tutorial and hosted that video on YouTube
+## As a temporary measure, I have also made a tutorial and hosted that video on YouTuber
 
 <p align="center">
 
